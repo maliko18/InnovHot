@@ -11,6 +11,7 @@ const josefin = Josefin_Sans({
 import "@/app/_styles/globals.css";
 import Header from "./_components/Header";
 import { ReservationProvider } from "./_components/ReservationContext";
+import LandbotScript from "./_components/LandbotScript";
 
 export const metadata = {
   title: {
@@ -34,6 +35,9 @@ export default function RootLayout({ children }) {
             <ReservationProvider>{children}</ReservationProvider>
           </main>
         </div>
+        
+        {/* Script Landbot */}
+        <LandbotScript />
       </body>
     </html>
   );
