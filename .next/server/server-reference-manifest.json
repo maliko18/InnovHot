@@ -1,0 +1,66 @@
+{
+  "node": {
+    "0bedd002c1aa518da13ad0e92031cdd2044b9fc9": {
+      "workers": {
+        "app/login/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cmalik%5C%5CDocuments%5C%5CLearning%5C%5CUdemy%5C%5CReact%20cours%5C%5Cprojects%5C%5Cfinal%5C%5CInnovHot%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22signInAction%22%2C%22signOutAction%22%2C%22updateBooking%22%2C%22updateGuest%22%2C%22deleteBooking%22%2C%22createBooking%22%5D%5D%5D&__client_imported__=!",
+        "app/cabins/[cabinId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cmalik%5C%5CDocuments%5C%5CLearning%5C%5CUdemy%5C%5CReact%20cours%5C%5Cprojects%5C%5Cfinal%5C%5CInnovHot%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22signInAction%22%2C%22signOutAction%22%2C%22updateBooking%22%2C%22updateGuest%22%2C%22deleteBooking%22%2C%22createBooking%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/login/page": "rsc",
+        "app/cabins/[cabinId]/page": "action-browser"
+      }
+    },
+    "4899208b128cd0f396abcab65aa49f03ee07d5ab": {
+      "workers": {
+        "app/login/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cmalik%5C%5CDocuments%5C%5CLearning%5C%5CUdemy%5C%5CReact%20cours%5C%5Cprojects%5C%5Cfinal%5C%5CInnovHot%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22signInAction%22%2C%22signOutAction%22%2C%22updateBooking%22%2C%22updateGuest%22%2C%22deleteBooking%22%2C%22createBooking%22%5D%5D%5D&__client_imported__=!",
+        "app/cabins/[cabinId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cmalik%5C%5CDocuments%5C%5CLearning%5C%5CUdemy%5C%5CReact%20cours%5C%5Cprojects%5C%5Cfinal%5C%5CInnovHot%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22signInAction%22%2C%22signOutAction%22%2C%22updateBooking%22%2C%22updateGuest%22%2C%22deleteBooking%22%2C%22createBooking%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/login/page": "rsc",
+        "app/cabins/[cabinId]/page": "action-browser"
+      }
+    },
+    "7555e2c292efb5c9b1be9cdb4c3274a2da871008": {
+      "workers": {
+        "app/login/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cmalik%5C%5CDocuments%5C%5CLearning%5C%5CUdemy%5C%5CReact%20cours%5C%5Cprojects%5C%5Cfinal%5C%5CInnovHot%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22signInAction%22%2C%22signOutAction%22%2C%22updateBooking%22%2C%22updateGuest%22%2C%22deleteBooking%22%2C%22createBooking%22%5D%5D%5D&__client_imported__=!",
+        "app/cabins/[cabinId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cmalik%5C%5CDocuments%5C%5CLearning%5C%5CUdemy%5C%5CReact%20cours%5C%5Cprojects%5C%5Cfinal%5C%5CInnovHot%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22signInAction%22%2C%22signOutAction%22%2C%22updateBooking%22%2C%22updateGuest%22%2C%22deleteBooking%22%2C%22createBooking%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/login/page": "rsc",
+        "app/cabins/[cabinId]/page": "action-browser"
+      }
+    },
+    "86f1508f34f6ed53ae177f143ae0d7180a60f198": {
+      "workers": {
+        "app/login/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cmalik%5C%5CDocuments%5C%5CLearning%5C%5CUdemy%5C%5CReact%20cours%5C%5Cprojects%5C%5Cfinal%5C%5CInnovHot%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22signInAction%22%2C%22signOutAction%22%2C%22updateBooking%22%2C%22updateGuest%22%2C%22deleteBooking%22%2C%22createBooking%22%5D%5D%5D&__client_imported__=!",
+        "app/cabins/[cabinId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cmalik%5C%5CDocuments%5C%5CLearning%5C%5CUdemy%5C%5CReact%20cours%5C%5Cprojects%5C%5Cfinal%5C%5CInnovHot%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22signInAction%22%2C%22signOutAction%22%2C%22updateBooking%22%2C%22updateGuest%22%2C%22deleteBooking%22%2C%22createBooking%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/login/page": "rsc",
+        "app/cabins/[cabinId]/page": "action-browser"
+      }
+    },
+    "d8829eef58e071b2190f1aae3e9b374e315f62c5": {
+      "workers": {
+        "app/login/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cmalik%5C%5CDocuments%5C%5CLearning%5C%5CUdemy%5C%5CReact%20cours%5C%5Cprojects%5C%5Cfinal%5C%5CInnovHot%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22signInAction%22%2C%22signOutAction%22%2C%22updateBooking%22%2C%22updateGuest%22%2C%22deleteBooking%22%2C%22createBooking%22%5D%5D%5D&__client_imported__=!",
+        "app/cabins/[cabinId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cmalik%5C%5CDocuments%5C%5CLearning%5C%5CUdemy%5C%5CReact%20cours%5C%5Cprojects%5C%5Cfinal%5C%5CInnovHot%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22signInAction%22%2C%22signOutAction%22%2C%22updateBooking%22%2C%22updateGuest%22%2C%22deleteBooking%22%2C%22createBooking%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/login/page": "rsc",
+        "app/cabins/[cabinId]/page": "action-browser"
+      }
+    },
+    "d9c0c7dbb6a1753c6710f0a145d23a352c5e08f4": {
+      "workers": {
+        "app/login/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cmalik%5C%5CDocuments%5C%5CLearning%5C%5CUdemy%5C%5CReact%20cours%5C%5Cprojects%5C%5Cfinal%5C%5CInnovHot%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22signInAction%22%2C%22signOutAction%22%2C%22updateBooking%22%2C%22updateGuest%22%2C%22deleteBooking%22%2C%22createBooking%22%5D%5D%5D&__client_imported__=!",
+        "app/cabins/[cabinId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cmalik%5C%5CDocuments%5C%5CLearning%5C%5CUdemy%5C%5CReact%20cours%5C%5Cprojects%5C%5Cfinal%5C%5CInnovHot%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22signInAction%22%2C%22signOutAction%22%2C%22updateBooking%22%2C%22updateGuest%22%2C%22deleteBooking%22%2C%22createBooking%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/login/page": "rsc",
+        "app/cabins/[cabinId]/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "GHHGa1AO/ExR6EI9aEWSuyCDEp3q35/kgV/WVShOiSs="
+}
